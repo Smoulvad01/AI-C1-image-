@@ -9,7 +9,7 @@ The Eye Blinking Detection Software is designed to detect and track eye blinks u
 - Dlib library
 - NumPy library
 - TensorFlow library
-- skelearn library
+- Skelearn library
 
 **Usage**
 
