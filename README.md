@@ -15,8 +15,8 @@ The Eye Blinking Detection Software is designed to detect and track eye blinks u
 
 - Install the required libraries by running the command pip install livelossplot.
 - Ensure that you have the necessary dependencies installed. If any library is missing, you can install it using pip install [library-name].
-- Follow the instructions on the command line or GUI to interact with the software.
-- View the real-time eye blink detection results displayed on the screen or customize the output as needed.
+- Follow the instructions on the command line to interact with the software.
+- View the blink detection results displayed on the screen or customize the output as needed.
 
 **File structure**
 
