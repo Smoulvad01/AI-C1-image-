@@ -29,7 +29,7 @@ xxx
 
 ## **License**
 
-This software is released under the MIT License.
+This project is published under the MIT License.
 
 ## **Acknowledgements**
 
