@@ -1,6 +1,6 @@
 ## **Overview**
 
-The Eye Blinking Detection Software is designed to detect and track eye blinks using machine learning models. The models are developed with a focus in photo editing software, but can be integrated into various applications, such as driver monitoring systems, attention tracking, and VR capabilities.
+The Eye Blinking Detection Software is designed to detect and track eye blinks using rule based, KNN & Logistic regression and CNN models. The models are developed with a focus in photo editing software, but can be integrated into various applications, such as driver monitoring systems, attention tracking, and VR capabilities.
 
 ## **Requirements**
 
