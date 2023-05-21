@@ -25,7 +25,11 @@ We were not able to upload dataset on GitHub due to size limitation but you can 
 
 ## **File structure**
 
-xxx
+- README.md to understand the scope and goal of the project. 
+- Inspecting_image_data, we inspected the data before and after processing
+- Image_Analysis_CNN cointains the loading of data, processing, KNN, Logistic Regression, CNN and applying the CNN on new images of eyes, taken by us 
+- Rule_Based_Model contains a rule based model to identify open or closed eyes, used on the images taken by us. 
+
 
 ## **License**
 
