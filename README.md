@@ -19,7 +19,8 @@ We were not able to upload dataset on GitHub due to size limitation but you can 
 
 - Install the required libraries by running the command pip install livelossplot.
 - Ensure that you have the necessary dependencies installed. If any library is missing, you can install it using pip install [library-name].
-- Follow the instructions on the command line to interact with the software.
+- Add the dataset to Google Drive --> MyDrive and give access
+- Follow the instructions on the text cells to train, evaluate and test the models.
 - View the blink detection results displayed on the screen or customize the output as needed.
 
 ## **File structure**
