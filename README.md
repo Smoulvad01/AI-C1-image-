@@ -19,7 +19,7 @@ We were not able to upload dataset on GitHub due to size limitation but you can 
 
 - Install the required libraries by running the command pip install livelossplot.
 - Ensure that you have the necessary dependencies installed. If any library is missing, you can install it using pip install [library-name].
-- Add the dataset to Google Drive --> MyDrive and give access
+- Add the datasets to Google Drive --> MyDrive and give access
 - Follow the instructions on the text cells to train, evaluate and test the models.
 - View the blink detection results displayed on the screen or customize the output as needed.
 
@@ -29,6 +29,7 @@ We were not able to upload dataset on GitHub due to size limitation but you can 
 - Inspecting_image_data, we inspected the data before and after processing
 - Image_Analysis_CNN cointains the loading of data, processing, KNN, Logistic Regression, CNN and applying the CNN on new images of eyes, taken by us 
 - Rule_Based_Model contains a rule based model to identify open or closed eyes, used on the images taken by us. 
+- prediction_images contains 6 images that are used on trained model on to make a prediction 
 
 
 ## **License**
